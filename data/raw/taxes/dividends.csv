@@ -1,0 +1,10 @@
+etf_ticker,mutual_fund_ticker,fund_type,region,investment,pct_qualified,pct_nonqualified
+VTI,VTSAX,admiral,domestic,stocks,0.9092,0.0908
+,VINIX,institutional,domestic,stocks,0.9566,0.0434
+,VMCIX,institutional,domestic,stocks,0.8575,0.1425
+,VSCIX,institutional,domestic,stocks,0.7649,0.2351
+VXUS,VTIAX,admiral,international,stocks,0.6116,0.3884
+,VTSNX,institutional,international,stocks,0.6116,0.3884
+BND,VBTLX,admiral,domestic,bonds,0.0000,1.0000
+,VBTIX,institutional,domestic,bonds,0.0000,1.0000
+BNDX,VTABX,admiral,international,bonds,0.0000,1.0000

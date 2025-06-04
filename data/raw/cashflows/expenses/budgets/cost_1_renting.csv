@@ -1,0 +1,41 @@
+name,category,cost_per_week,cost_per_month,cost_per_year
+rent,housing,,2900,
+mortgage,housing,,,
+renter's insurance,housing,,,200
+homeowner's insurance,housing,,,
+HoA fees,housing,,,
+property tax,housing,,,
+gas,housing,,,
+electric,housing,,75,
+water,housing,,15,
+sewer,housing,,,
+internet,housing,,70,
+groceries,food,100,,
+restaurants,food,50,,
+car rentals,transportation,,,125
+car insurance,transportation,,,
+fuel,transportation,,,35
+tolls,transportation,,,20
+bus fares,transportation,,25,
+MTA fares,transportation,,30,
+PATH fares,transportation,30,,
+private health insurance,personal,,,
+clothing,personal,,,250
+self-care,personal,,40,
+cleaning supplies,personal,,25,
+washing supplies,personal,,,40
+laundry,personal,,15,
+fabrics,personal,,,100
+homeliness,personal,,,50
+gym membership,subscriptions,,180,
+cell phone plan,subscriptions,,50,
+discord nitro,subscriptions,,,100
+amazon prime,subscriptions,,,150
+the economist,subscriptions,,,250
+books,hobbies,,,400
+board games,hobbies,,,150
+art supplies,hobbies,,,500
+piano scores,hobbies,,,100
+entertainment,hobbies,,,600
+appliances,miscellaneous,,,350
+vacations,miscellaneous,,,4500
