@@ -1,0 +1,12 @@
+year,age_at_end,401k_match_pct,401k_match_base_salary_cap,effective_max_401k_match,401k_match_vesting_period_years,401k_vesting_cadence
+2019,23,0.50,0.04,720.00,4.00,annually
+2020,24,0.50,0.04,2160.00,4.00,annually
+2021,25,0.50,0.04,2210.00,4.00,monthly
+2022,26,0.50,0.06,4200.00,4.00,monthly
+2023,27,0.50,0.06,4830.00,4.00,monthly
+2024,28,0.50,0.06,5280.00,4.00,monthly
+2025,29,0.50,0.06,6162.00,4.00,monthly
+2026,30,0.50,0.06,6480.00,4.00,monthly
+2027,31,0.50,0.06,6750.00,4.00,monthly
+2028,32,0.50,0.06,7020.00,4.00,monthly
+2029,33,0.50,0.06,7290.00,4.00,monthly
